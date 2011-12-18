@@ -1,0 +1,9 @@
+This is a fill-in-the-blank template for writing Python scripts that
+use the excellent [plac](http://code.google.com/p/plac/) for argument
+parsing and [logging](http://docs.python.org/library/logging.html) for
+giving status messages.
+
+I use this template whenever I create a new Python script. Now you can
+too. Don't fork this on GitHub. Just download the
+[template file](https://github.com/DarwinAwardWinner/python-script-template/raw/master/python-script.py)
+and fill in the blanks.
